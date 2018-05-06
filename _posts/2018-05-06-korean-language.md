@@ -4,7 +4,11 @@ title: Our first event!
 date: 2018-05-06
 category: event
 ---
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:fb="http://ogp.me/ns/fb#">
+>
 
+<head><meta property="og:image" content="../../../../../events/crowd.jpg" /></head>
 <span style="font-size:1.6em; text-align:center"><em>"The journey of a thousand miles begins with one step."</em> - <strong>Lao Tzu</strong></span>
 <center style="margin:16px"><img src="../../../../../events/crowd.jpg" width="550"></center>
 
