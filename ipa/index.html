@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="main.css">
+  <script src="main.js"></script>
+  <title>IPA Table</title>
+</head>
+
+<body>
+  <a href="..">Home</a>
+  <p class="title">IPA Consonants Table
+    <sup>*</sup>
+  </p>
+  <p class="click">Click a phoneme to play</p>
+  <div class="center">
+    <table>
+      <tr id="place">
+        <td></td>
+        <td>Bilabial</td>
+        <td>Labiodental</td>
+        <td>Dental</td>
+        <td>Alveolar</td>
+        <td>Palatal</td>
+        <td>Velar</td>
+        <td>Glottal</td>
+      </tr>
+      <tr>
+        <td class="manner">Plosive</td>
+        <td>
+          <span class="sound" onclick="play(vs_bilabial_plosive)">p</span>
+          <span class="right sound" onclick="play(vd_bilabial_plosive)">b</span>
+        </td>
+        <td></td>
+        <td></td>
+        <td>
+          <span class="sound " onclick="play(vs_velar_plosive)">t</span>
+          <span class="right sound" onclick="play(vd_labio_plosive)">d</span>
+        </td>
+        <td></td>
+        <td>
+          <span class="sound " onclick="play(vs_velar_plosive)">k</span>
+          <span class="right sound" onclick="play(vd_velar_plosive)">g</span>
+        </td>
+        <td class="sound" onclick="play(vs_glottal_plosive)">&#660;</td>
+      </tr>
+      <tr>
+        <td class="manner ">Fricative</td>
+        <td class="sound" onclick="play(vs_bilabial_fricative)">&beta;</td>
+        <td>
+          <span class="sound " onclick="play(vs_labio_fricative)">f</span>
+          <span class="right sound" onclick="play(vd_labio_fricative)">v</span>
+        </td>
+        <td>
+          <span class="sound" onclick="play(vs_dental_fricative)">&theta;</span>
+          <span class="right sound" onclick="play(vd_dental_fricative)">&eth;</span>
+        </td>
+        <td>
+          <span class="sound " onclick="play(vs_alveolar_fricative)">s</span>
+          <span class="right sound" onclick="play(vd_alveolar_fricative)">z</span>
+        </td>
+        <td class="sound" onclick="play(vs_palatal_fricative)">&ccedil;</td>
+        <td>
+          <span class="sound " onclick="play(vs_velar_fricative)">x</span>
+          <span class="right sound " onclick="play(vd_velar_fricative)">&#611;</span>
+        </td>
+        <td>
+          <span class="sound " onclick="play(vs_glottal_fricative)">h</span>
+          <span class="right sound " onclick="play(vd_glottal_fricative)">&#614;</span>
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>
+          <span class="sound " onclick="play(vs_palatoalveolar_fricative)">&#643;</span>
+          <span class="right sound " onclick="play(vd_palatoalveolar_fricative)">&#658;</span>
+        </td>
+      </tr>
+      <tr>
+        <td class="manner ">Nasal</td>
+        <td class="sound ">m</td>
+        <td></td>
+        <td></td>
+        <td class="sound ">n</td>
+        <td class="sound ">&#626;</td>
+        <td class="sound ">&#331;</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td class="manner ">Liquid</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>
+          <span class="sound ">&#620;</span>
+          <span class="right sound ">l</span>
+        </td>
+        <td class="sound ">&#654;</td>
+        <td class="sound " onclick="play(vs_bilabial_plosive) ">R</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>
+          <span class="sound ">r</span>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td class="manner ">Semi-vowel</td>
+        <td class="sound " onclick="play() ">w</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="sound ">j</td>
+        <td class="sound ">w</td>
+        <td></td>
+      </tr>
+    </table>
+  </div>
+  <footer>
+    <p>
+      <sup>*</sup>The sounds on the left are voiceless, while the ones on the right are voiced.</p>
+    <p>The audio clips are made by Hicham Mellouki.</p>
+    <div>
+      <a href="https://creativecommons.org/licenses/by/4.0/">
+        <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg" width="62px">
+      </a>
+    </div>
+  </footer>
+</body>
+
+</html>

@@ -1,0 +1,43 @@
+body {
+  font-family: helvetica, "sans-serif";
+  margin: 220px;
+}
+
+a {
+  text-decoration: none;
+  color: black !important;
+}
+
+#Menu {
+  display: table;
+  margin: 0 auto;
+}
+
+ul {
+  list-style: none;
+  text-align: center;
+  display: inline;
+}
+
+li {
+  font-size: 1.3rem;
+  margin-bottom: 20px;
+  border: 2px solid black;
+  width: 300px;
+  padding: -30px;
+  cursor: pointer;
+}
+
+li:hover {
+  color: white;
+  background: black;
+}
+
+footer {
+  margin-top: 100px;
+  text-align: center;
+}
+
+div img {
+  margin-top: 15px;
+}
