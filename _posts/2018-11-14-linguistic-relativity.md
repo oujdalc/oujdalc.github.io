@@ -6,7 +6,7 @@ category: event
 ---
 <meta property="og:image" content="../../../../../events/poplinguistics/end.jpg">
 
-### Special thanks goes to **Hala**, **Ouafae**, **Asmae, **Hicham** and other **members**; Not to forget the awesome **audience** who made it lit!
+### Special thanks goes to **Hala**, **Ouafae**, **Asmae**, **Hicham** and other **members**; Not to forget the awesome **audience** who made it lit!
 
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
