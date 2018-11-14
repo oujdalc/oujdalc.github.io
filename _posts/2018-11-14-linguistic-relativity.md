@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pop Linguistics #1: Linguistic Relativity
+title: "Pop Linguistics #1: Linguistic Relativity"
 date: 2018-11-14
 category: event
 ---
