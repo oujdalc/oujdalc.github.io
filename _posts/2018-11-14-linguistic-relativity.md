@@ -5,6 +5,9 @@ date: 2018-11-14
 category: event
 ---
 
+Special thanks goes to Hala, Ouafae, Hicham and other members; Not to forget
+the audience who made it lit!
+
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
