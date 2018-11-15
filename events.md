@@ -9,9 +9,13 @@ permalink: /events/
 
 #### ✔️ 15/10 - Open Day
 
-#### ◻  25/10 - Korean Day V2
+#### ✔️  25/10 - Korean Day V2
 
-#### ◻  13/11 - Pop Linguistics #1: Linguistic Relativity
+#### ✔️  13/11 - Pop Linguistics #1: Linguistic Relativity
+
+#### ◻  26/11 - Study group
+
+#### ◻  27/11 - Pop Linguistics #2
 
 ## 2017-2018
 
