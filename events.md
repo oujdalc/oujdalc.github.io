@@ -5,17 +5,15 @@ permalink: /events/
 ---
 *This page will contain our past and future events.*
 
-2018-2019
+## 2018-2019
 
 #### ✔️ 15/10 - Open Day
 
-#### ✔️ 25/10 - Korean Day V2
+#### ◻  25/10 - Korean Day V2
 
-#### ✔️ 13/11 - Pop Linguistics #1: Linguistic Relativity
+#### ◻  13/11 - Pop Linguistics #1: Linguistic Relativity
 
-####
-
-2017-2018
+## 2017-2018
 
 #### ✔️ 05/05 - Language Days: Korean
 
