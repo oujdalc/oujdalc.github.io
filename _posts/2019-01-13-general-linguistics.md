@@ -10,9 +10,9 @@ Below you find the notes from the course of General Linguistics, taught by
 Prof. **Kably**.
 
 ## Introduction
-<img src="../../../../../assets/pdf.png"><a href="../../../../../assets/intro.pdf"><emph>  Introduction (134KB)<emph></a>
+<img src="../../../../../assets/pdf.png"><a href="../../../../../assets/intro.pdf"><emph>  Introduction (134KB)</emph></a>
 ## Phonetics
-<img src="../../../../../assets/pdf.png"><a href="../../../../../assets/phonetics.pdf"><emph>  Phonetics (310KB)<emph></a>
+<img src="../../../../../assets/pdf.png"><a href="../../../../../assets/phonetics.pdf"><emph>  Phonetics (310KB)</emph></a>
 ## Phonology
 <img src="../../../../../assets/pdf.png"><a href="../../../../../assets/phonology.pdf"><emph>  Phonology (146KB)</emph></a>
 ## Morphology
