@@ -14,7 +14,7 @@ Prof. **Kably**.
 ## Phonetics
 <img src="../../../../../assets/pdf.png"><a href="../../../../../assets/phonetics.pdf"><emph>  Phonetics (310KB)<emph></a>
 ## Phonology
-<img src="../../../../../assets/pdf.png"><a href="../../../../../assets/phonology.pdf"><emph>  Phonology (143KB)</emph></a>
+<img src="../../../../../assets/pdf.png"><a href="../../../../../assets/phonology.pdf"><emph>  Phonology (146KB)</emph></a>
 ## Morphology
 <img src="../../../../../assets/pdf.png"><a href="../../../../../assets/morphology.pdf"><emph>  Morphology (171KB)</emph></a>
 ## Syntax
