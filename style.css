@@ -21,7 +21,7 @@ form {
 	padding: 20px;
 	border-top: 30px solid #5c5d5e;
 	border-radius: 10px;
-  background-color: #e8ebed;
+  	background-color: #e8ebed;
 	box-shadow: 0 0 80px rgba(0, 0, 0, .2);
 }
 
@@ -33,7 +33,7 @@ form::before {
 	width: 10px;
 	height: 10px;
 	border-radius: 50%;
-  background-color: #adadae;
+  	background-color: #adadae;
 	box-shadow:
     20px 0 0 #adadae,
     40px 0 0 #adadae;
@@ -139,4 +139,11 @@ a {
 }
 a::after {
   content:".pdf";
+}
+
+@media only screen and (max-width:470px) {
+	body {
+		max-height:40%;
+		max-width:50%;
+	}
 }
