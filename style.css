@@ -141,9 +141,9 @@ a::after {
   content:".pdf";
 }
 
-@media only screen and (max-width:470px) {
+@media (max-width:470px) {
 	body {
-		max-height:40%;
-		max-width:50%;
+		width:50%;
+		height:40%
 	}
 }
